@@ -8,3 +8,4 @@ Desenvolvimento de página web como projeto prático de aprendizado em Front-End
 Estruturação de páginas utilizando HTML5 e CSS3.
 Aplicação de conceitos de organização de conteúdo, estilização e construção de interfaces web.
 Projeto desenvolvido durante estudos introdutórios de desenvolvimento Front-End.
+( Curso Alura )
